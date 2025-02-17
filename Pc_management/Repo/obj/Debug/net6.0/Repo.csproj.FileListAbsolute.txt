@@ -1,0 +1,17 @@
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\Repo.deps.json
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\Repo.dll
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\Repo.pdb
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\BO.dll
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\DAO.dll
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\DAO.pdb
+D:\ki_6\Pc_management\Pc_management\Repo\bin\Debug\net6.0\BO.pdb
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.csproj.Up2Date
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.dll
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\refint\Repo.dll
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\Repo.pdb
+D:\ki_6\Pc_management\Pc_management\Repo\obj\Debug\net6.0\ref\Repo.dll
