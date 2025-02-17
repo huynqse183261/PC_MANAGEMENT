@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pc_management.props" />
+</Project>

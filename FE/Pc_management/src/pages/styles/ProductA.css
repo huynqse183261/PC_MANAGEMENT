@@ -1,0 +1,6 @@
+.products-container {
+    margin-left: 200px; /* Để tránh Sidebar */
+    padding: 20px;
+    background-color: #f0f2f5;
+    margin-top: -8px;
+}

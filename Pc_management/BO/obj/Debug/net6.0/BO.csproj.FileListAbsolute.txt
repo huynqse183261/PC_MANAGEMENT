@@ -1,0 +1,14 @@
+D:\ki_6\Pc_management\Pc_management\BO\bin\Debug\net6.0\BO.deps.json
+D:\ki_6\Pc_management\Pc_management\BO\bin\Debug\net6.0\BO.dll
+D:\ki_6\Pc_management\Pc_management\BO\bin\Debug\net6.0\BO.pdb
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.dll
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\refint\BO.dll
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.pdb
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\ref\BO.dll
+D:\ki_6\Pc_management\Pc_management\BO\bin\Debug\net6.0\BO.runtimeconfig.json
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+D:\ki_6\Pc_management\Pc_management\BO\obj\Debug\net6.0\BO.genruntimeconfig.cache

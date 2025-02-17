@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ki_6\\Pc_management\\Pc_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|d:\\ki_6\\pc_management\\pc_management\\bo\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|solutionrelative:bo\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|d:\\ki_6\\pc_management\\pc_management\\bo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|solutionrelative:bo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\pc_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\pc_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|d:\\ki_6\\pc_management\\pc_management\\repo\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8971093A-BF05-4967-9689-5828DFF27CB5}|Repo\\Repo.csproj|solutionrelative:repo\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|d:\\ki_6\\pc_management\\pc_management\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC033209-F2C3-4E3E-B990-C2DD52D4751F}|Service\\Service.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|d:\\ki_6\\pc_management\\pc_management\\bo\\bo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F92B004C-5790-446D-9E04-4590ABCE2398}|BO\\BO.csproj|solutionrelative:bo\\bo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|d:\\ki_6\\pc_management\\pc_management\\pc_management\\pc_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ABD25E1-1F27-4E5F-972A-8C0542555898}|Pc_management\\Pc_management.csproj|solutionrelative:pc_management\\pc_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|d:\\ki_6\\pc_management\\pc_management\\dao\\models\\pc_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0471CE47-95C1-416D-9A00-352B73D436F5}|DAO\\DAO.csproj|solutionrelative:dao\\models\\pc_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Program.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Program.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Program.cs",
+              "RelativeToolTip": "Pc_management\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:15:38.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Models\\OrderDTO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "Pc_management\\Models\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:32:51.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Pc_management\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:22:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\OrderDAO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "DAO\\OrderDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:33:59.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IOrderRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IOrderRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IOrderRepo.cs",
+              "RelativeToolTip": "Repo\\IOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:45:14.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pc_managementContext.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\Pc_managementContext.cs",
+              "RelativeDocumentMoniker": "DAO\\Pc_managementContext.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\Pc_managementContext.cs",
+              "RelativeToolTip": "DAO\\Pc_managementContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:53:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Pc_management\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:16:44.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "DAO\\AccountDAO.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:53:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProductDAO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DAO\\ProductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:57:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BO\\Models\\Account.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\Models\\Account.cs",
+              "RelativeToolTip": "BO\\Models\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:00:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BO\\Models\\Product.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\Models\\Product.cs",
+              "RelativeToolTip": "BO\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\appsettings.json",
+              "RelativeDocumentMoniker": "Pc_management\\appsettings.json",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\appsettings.json",
+              "RelativeToolTip": "Pc_management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T02:52:26.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Models\\ProductDTO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "Pc_management\\Models\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:58:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Models\\AccountDTO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\AccountDTO.cs",
+              "RelativeToolTip": "Pc_management\\Models\\AccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:17:33.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Pc_management\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:17:05.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Pc_management\\Models\\LoginDTO.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "Pc_management\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:34:21.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\OrderService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\OrderService.cs",
+              "RelativeToolTip": "Service\\OrderService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:51:14.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\OrderRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\OrderRepo.cs",
+              "RelativeToolTip": "Repo\\OrderRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:44:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IProductService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IProductService.cs",
+              "RelativeToolTip": "Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:12:08.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IOrderService.cs",
+              "RelativeToolTip": "Service\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:50:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IProductRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IProductRepo.cs",
+              "RelativeToolTip": "Repo\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:08:54.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAO.csproj",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\DAO.csproj",
+              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\DAO.csproj",
+              "RelativeToolTip": "DAO\\DAO.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T02:30:22.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IAccountRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\IAccountRepo.cs",
+              "RelativeToolTip": "Repo\\IAccountRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:17:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\IAccountService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\IAccountService.cs",
+              "RelativeToolTip": "Service\\IAccountService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:19:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\ProductRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\ProductRepo.cs",
+              "RelativeToolTip": "Repo\\ProductRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:08:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\AccountService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\AccountService.cs",
+              "RelativeToolTip": "Service\\AccountService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvzAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:20:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repo.csproj",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\Repo.csproj",
+              "RelativeDocumentMoniker": "Repo\\Repo.csproj",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\Repo.csproj",
+              "RelativeToolTip": "Repo\\Repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T02:30:15.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\AccountRepo.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Repo\\AccountRepo.cs",
+              "RelativeToolTip": "Repo\\AccountRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:17:20.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:11:55.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pc_managementContext.cs",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\Models\\Pc_managementContext.cs",
+              "RelativeDocumentMoniker": "DAO\\Models\\Pc_managementContext.cs",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\DAO\\Models\\Pc_managementContext.cs",
+              "RelativeToolTip": "DAO\\Models\\Pc_managementContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA0wE8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:02:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BO.csproj",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\BO.csproj",
+              "RelativeDocumentMoniker": "BO\\BO.csproj",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\BO\\BO.csproj",
+              "RelativeToolTip": "BO\\BO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T02:34:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pc_management.csproj",
+              "DocumentMoniker": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Pc_management.csproj",
+              "RelativeDocumentMoniker": "Pc_management\\Pc_management.csproj",
+              "ToolTip": "D:\\ki_6\\Pc_management\\Pc_management\\Pc_management\\Pc_management.csproj",
+              "RelativeToolTip": "Pc_management\\Pc_management.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T02:29:59.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
